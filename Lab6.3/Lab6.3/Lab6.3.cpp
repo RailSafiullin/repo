@@ -30,7 +30,6 @@ public:
     }
 };
 
-
 //OperatingSystem
 class OperatingSystem {
 public:

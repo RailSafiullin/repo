@@ -148,7 +148,6 @@ public:
     }
 };
 
-
 int main() {
     AbstractFactory* factory;
 
